@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="camSuite">
+    <file>img/cam_shelf_logo.png</file>
+    <file>img/cam_ui_logo.png</file>
+  </qresource>
+</RCC>
