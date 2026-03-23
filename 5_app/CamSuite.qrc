@@ -1,5 +1,29 @@
 <RCC>
   <qresource prefix="camSuite">
+    <file>img/btn_switch_off_img.png</file>
+    <file>img/btn_switch_on_img.png</file>
+    <file>img/btn_base_img.png</file>
+    <file>img/btn_frames_img.png</file>
+    <file>img/btn_new_cam_img.png</file>
+    <file>img/btn_offset_img.png</file>
+    <file>img/btn_pan_img.png</file>
+    <file>img/btn_properties_img.png</file>
+    <file>img/btn_roll_img.png</file>
+    <file>img/btn_scene_cameras_img.png</file>
+    <file>img/btn_shake_img.png</file>
+    <file>img/btn_tilt_img.png</file>
+    <file>img/btn_trans_img.png</file>
+    <file>img/cam_suite_ui_logo.png</file>
+    <file>img/cam_rig__shake_img.png</file>
+    <file>img/cam_rig_base_img.png</file>
+    <file>img/cam_rig_camera_img.png</file>
+    <file>img/cam_rig_img.png</file>
+    <file>img/cam_rig_img.tif</file>
+    <file>img/cam_rig_offset_img.png</file>
+    <file>img/cam_rig_pan_img.png</file>
+    <file>img/cam_rig_roll_img.png</file>
+    <file>img/cam_rig_tilt_img.png</file>
+    <file>img/cam_rig_trans_img.png</file>
     <file>img/cam_shelf_logo.png</file>
     <file>img/cam_ui_logo.png</file>
   </qresource>
